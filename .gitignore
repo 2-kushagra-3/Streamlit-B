@@ -2,11 +2,9 @@
 birthday_app/.streamlit/secrets.toml
 
 # Python
-__pycache__/
-*.py[cod]
-*.pyo
-.env
-birthday_app/__pycache__
+birthday_app/__pycache__/*
+birthday_app/components/__pycache__/*
+
 # OS
 .DS_Store
 Thumbs.db
