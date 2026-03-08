@@ -1,0 +1,12 @@
+# Secrets — never commit
+birthday_app/.streamlit/secrets.toml
+
+# Python
+__pycache__/
+*.py[cod]
+*.pyo
+.env
+
+# OS
+.DS_Store
+Thumbs.db
