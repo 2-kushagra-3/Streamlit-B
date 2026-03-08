@@ -1,10 +1,16 @@
-# Secrets — never commit
-birthday_app/.streamlit/secrets.toml
+# ── Secrets — never commit ────────────────────────────────────────────────────
+.streamlit/secrets.toml
 
-# Python
-birthday_app/__pycache__/*
-birthday_app/components/__pycache__/*
+# ── Python cache ──────────────────────────────────────────────────────────────
+__pycache__/
+*.py[cod]
+*.pyo
 
-# OS
+# ── Environment ───────────────────────────────────────────────────────────────
+.env
+venv/
+.venv/
+
+# ── OS ────────────────────────────────────────────────────────────────────────
 .DS_Store
 Thumbs.db
