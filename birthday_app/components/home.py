@@ -61,7 +61,7 @@ def render_home():
             <span class="star">✨</span><span class="star">🌟</span><span class="star">⭐</span>
         </div>
         <h1 class="bday-name">Your Cinema Menu</h1>
-        <p class="bday-subtitle">A gift that was made for a birthday — and kept alive because it deserved to stay 🎞️</p>
+        <p class="bday-subtitle">A gift that was made for your birthday, and kept alive because, why not? 🎞️</p>
     </div>
     """, unsafe_allow_html=True)
 
