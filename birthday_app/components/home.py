@@ -55,13 +55,13 @@ def render_home():
         text-align:center; padding: 60px 20px 0; position:relative;
     ">
         <div class="confetti-bg"></div>
-        <div class="bday-emoji">🎬</div>
+        <div class="bday-emoji">🎬🎶</div>
         <div class="stars">
             <span class="star">⭐</span><span class="star">🌟</span>
             <span class="star">✨</span><span class="star">🌟</span><span class="star">⭐</span>
         </div>
-        <h1 class="bday-name">Your Cinema Menu</h1>
-        <p class="bday-subtitle">A gift that was made for your birthday, and kept alive because, why not? 🎞️</p>
+        <h1 class="bday-name">Your Private Screening</h1>
+        <p class="bday-subtitle">A gift that was made for your birthday, and kept alive because, cuz' why not? 🎞️</p>
     </div>
     """, unsafe_allow_html=True)
 
