@@ -68,16 +68,14 @@ def render_home():
     st.markdown("""
     <div class="bday-card">
         <div class="bday-message-text">
-            Your birthday may have passed, but the celebration doesn't have to. 🎂<br><br>
-            This started as a <strong>birthday gift</strong> — a little world of
+            Your birthday might be over, but that doesn't mean the party has to stop. You can still keep celebrating and make the most of it.🎂<br><br>
+            This started as a <strong>birthday gift</strong>, a little world of
             <strong>movies and music</strong>, put together with care. But great stories don't
             have expiry dates, and good songs don't stop mattering just because the cake is gone.
-            So it stays. 🎁<br><br>
-            Come back whenever you want a good laugh, a love story, a rush of adrenaline,
-            a wave of nostalgia, or something that keeps you on the edge of your seat.
-            There's always something here for the mood you're in. 🎞️<br><br>
-            No occasion needed, no reason required — just you, a mood, and exactly the right
-            thing to watch or listen to. <strong>It's all here, and it's not going anywhere.</strong> 🥂✨
+            <strong>So it stays</strong>. 🎁<br><br>
+            Feel free to drop by anytime you're in the mood for a good laugh, a romantic tale, an adrenaline rush, a blast from the past, or a thrilling story that keeps you guessing.
+            We've got something for every emotion, so you can always find what you're looking for. 🎞️<br><br>
+            Sometimes you just need something to match your mood, and that's it - no special occasion or reason needed. You can find the perfect thing to watch or listen to, and it'll be right there waiting for you. It's always available, whenever you want it. 🥂✨
         </div>
         <div class="card-divider"></div>
         <p class="mood-prompt">✦ &nbsp; what's your mood today? &nbsp; ✦</p>
