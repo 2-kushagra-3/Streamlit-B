@@ -68,17 +68,16 @@ def render_home():
     st.markdown("""
     <div class="bday-card">
         <div class="bday-message-text">
-            The birthday has come and gone, but some things are too good to pack away. 🎂<br><br>
-            This started as a <strong>birthday gift</strong> — a hand-curated world of
-            <strong>movies and music</strong>, chosen with care, built with love.
-            And now it lives on, because great stories and good songs don't expire
-            just because the cake is gone. 🎁<br><br>
-            Think of this as your <strong>personal cinema and playlist, always open.</strong>
-            Come back whenever you need a good laugh, a love story, a rush of adrenaline,
-            a wave of nostalgia, or something that keeps you on the edge of your seat. 🎞️<br><br>
-            This is your <strong>director's cut</strong> — no filler, no expiry date,
-            no reason needed. Just you, a mood, and the perfect thing to watch or listen to.
-            <strong>It's all still here, waiting for you.</strong> 🥂✨
+            Your birthday may have passed, but the celebration doesn't have to. 🎂<br><br>
+            This started as a <strong>birthday gift</strong> — a little world of
+            <strong>movies and music</strong>, put together with care. But great stories don't
+            have expiry dates, and good songs don't stop mattering just because the cake is gone.
+            So it stays. 🎁<br><br>
+            Come back whenever you want a good laugh, a love story, a rush of adrenaline,
+            a wave of nostalgia, or something that keeps you on the edge of your seat.
+            There's always something here for the mood you're in. 🎞️<br><br>
+            No occasion needed, no reason required — just you, a mood, and exactly the right
+            thing to watch or listen to. <strong>It's all here, and it's not going anywhere.</strong> 🥂✨
         </div>
         <div class="card-divider"></div>
         <p class="mood-prompt">✦ &nbsp; what's your mood today? &nbsp; ✦</p>
